@@ -1,6 +1,8 @@
+package log4j;
+
 import baseEntity.BaseStep;
 import core.BrowsersService;
-import io.qameta.allure.Step;
+import io.qameta.allure.Step;;
 import models.User;
 
 public class LoginStep extends BaseStep {

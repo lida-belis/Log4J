@@ -1,3 +1,5 @@
+package log4j;
+
 import baseEntity.BasePage;
 import core.BrowsersService;
 import org.openqa.selenium.WebElement;

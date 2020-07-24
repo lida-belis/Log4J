@@ -1,3 +1,5 @@
+package log4j;
+
 import baseEntity.BaseTest;
 import models.User;
 import org.testng.annotations.Test;
